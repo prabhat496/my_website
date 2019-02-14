@@ -63,16 +63,13 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "ranjanprabhat496@gmail.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "mailprabhatr@gmail@gmail.com"
+  address = "Dese Building, IIT Bombay"
   office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  phone = "+91-8454952208"
+  skype = "mailprabhatr"
+  telegram = "prabhatr"
   keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).

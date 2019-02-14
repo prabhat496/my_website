@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Project Solarise"
+title = "Marine Plastic Pollution"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Net zero Energy house competing in Solar Decathlon China 2018"
+summary = "A case study on Marine plastic pollution."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["Energy", "Sustainability", "Housing"]
+tags = ["Marine Pollution", "Sustainability"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -21,23 +21,23 @@ external_link = ""
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://github.com/prabhat496/marine_palstic_pollution/blob/master/Final_Report.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/prabhat27"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Project Solarise house in China "
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
