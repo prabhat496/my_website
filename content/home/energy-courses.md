@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Key Courses"
+title = "Key Department Courses"
 #&shy;ments"
 subtitle = "Energy Science and Engineering"
 
@@ -22,71 +22,71 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Energy Engineering Fundamentals"
-  organization = ""
+  organization = "Prof. Rangan Banerjee"
   certificate_url = ""
-  date_start = "2018-07-17"
-  date_end = "2018-11-29"
+  date_start = "2017-01-01"
+  date_end = "2017-04-01"
   description = ""
 
 [[item]]
-  title = "Material Science for Energy Application"
-  organization = ""
+  title = "Data Analysis and Interpretation"
+  organization = "Prof. Pratibha Sharma "
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2017-07-01"
+  date_end = "2017-11-01"
+  description = ""
+  
+[[item]]
+  title = "Renewable Energy Technologies"
+  organization = "Prof. Chetan Shingh Solanki"
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
   description = ""
   
 [[item]]
   title = "Electrical Machines"
-  organization = ""
+  organization = "Prof. Pawan Hari"
   certificate_url = ""
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
   description = ""
 
 [[item]]
   title = "Transport Phenomena"
-  organization = ""
+  organization = "Prof. Manaswita Bose"
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  title = "Renewable Technologies"
-  organization = ""
-  certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
   description = ""
 
 [[item]]
   title = "Power Electronics"
-  organization = ""
+  organization = "Prof. Pawan Hari"
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2018-07-01"
+  date_end = "2018-11-01"
   description = ""
 
 [[item]]
   title = "Reaction Engineering and Combustion"
-  organization = ""
+  organization = "Prof. Lalit"
   certificate_url = ""
-  date_start = "2018-03-01"
-  date_end = ""
+  date_start = "2018-07-01"
+  date_end = "2018-11-01"
   description = ""
 
 [[item]]
-  title = "Energy Policy Analysis"
+  title = "Thermo-fluid Devices"
   organization = ""
-  certificate_url = ""
-  date_start = "2019-01-01"
-  date_end = ""
-  description = "The course mainly deals with the analysis of current energy policies, with implimentation innovative solutions and forcasting future implicaitons."
+   certificate_url = ""
+  date_start = "2018-07-01"
+  date_end = "2018-11-01"
+  description = ""
 
 [[item]]
   title = "Electrical Energy Systems"
-  organization = ""
+  organization = "Prof. Zakir H. Rathar"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = ""
@@ -94,17 +94,25 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Control and Instrumentation"
-  organization = ""
+  organization = "Prof. Suryanarayan Prakash Dulla"
   certificate_url = ""
-  date_start = "2018-01-01"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
 [[item]]
   title = "Power Generation and System Planning"
-  organization = ""
+  organization = "Prof. Suneet Singh"
   certificate_url = ""
-  date_start = "2018-01-01"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  title = "Energy Policy Analysis"
+  organization = "Prof. Rangan Banerjee"
+  certificate_url = ""
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 

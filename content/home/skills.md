@@ -22,21 +22,58 @@ weight = 4
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "home"
+  icon_pack = "fas"
+  name = "Green Building"
+  description = ""
+  
+[[feature]]
+  icon = "power-off"
+  icon_pack = "fas"
+  name = "Power Systems"
+  description = ""
+  
+[[feature]]
+  icon = "thermometer-half"
+  icon_pack = "fas"
+  name = "HVAC"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Analysis"
+  description = ""
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "C/C++"
+  description = ""
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "pyhton"
+  description = ""
+
+[[feature]]
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android Studio"
+  description = ""
+  
+[[feature]]
+  icon = "autoprefixer"
+  icon_pack = "fab"
+  name = "AutoCAD"
+  description = ""
+  
+[[feature]]
+  icon = "memory"
+  icon_pack = "fas"
+  name = "Arduino"
+  description = ""
+
 
 +++

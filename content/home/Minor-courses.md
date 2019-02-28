@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Key Courses"
+title = "Minor Courses"
 #&shy;ments"
 subtitle = "Bio-science and Bioengineering"
 
@@ -22,17 +22,17 @@ date_format = "Jan 2006"
 
 [[item]]
   title = "Genetic Engineering"
-  organization = "BB 503"
+  organization = "Prof. Anirban Banarjee"
   certificate_url = ""
-  date_start = "2018-07-17"
-  date_end = "2018-11-29"
+  date_start = "2018-01-01"
+  date_end = "2018-04-01"
   description = ""
 
 [[item]]
   title = "Metabolism and Bioenergetics"
-  organization = "BB 404"
+  organization = "Prof. Ashutosh Kumar"
   certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
   

@@ -10,7 +10,7 @@ summary = "Net zero Energy house competing in Solar Decathlon China 2018"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = [""]`
-tags = ["Energy", "Sustainability", "Housing"]
+tags = ["energy", "sustainability", "housing"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
