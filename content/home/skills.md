@@ -42,7 +42,7 @@ weight = 4
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data Analysis"
+  name = "Stastistics"
   description = ""
   
 [[feature]]

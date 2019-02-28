@@ -57,9 +57,9 @@ date_format = "January 2006"
   """
 [[experience]]
   title = "Teaching Assistant"
-  company = "BB101"
-  company_url = ""
-  location = "Bioscience and Bioengineering"
+  company = "Bioscience and Bioengineering"
+  company_url = "http://www.bio.iitb.ac.in/"
+  location = "IIT Bombay"
   date_start = "2018-01-01"
   date_end = "2018-05-01"
   description = """ Worked as the Teaching assistant for course BB101 under Prof. Ambarish Kunwar
