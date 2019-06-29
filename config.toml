@@ -9,7 +9,7 @@
 baseurl = "https://prabhat.netlify.com/"
 
 # Title of your site
-title = "Academic"
+title = "Prabhat"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -60,12 +60,12 @@ enableGitInfo = true
   organizations = [ { name = "Indian Institute of Technology Bombay", url = "https://iitb.ac.in/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "mailprabhatr@gmail@gmail.com"
-  address = "Dese Building, IIT Bombay"
-  office_hours = """
+  #address = "Dese Building, IIT Bombay"
+  office_hours = """ http://google.com
   """
   phone = "+91-8454952208"
   skype = "mailprabhatr"
@@ -110,20 +110,20 @@ enableGitInfo = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "Personal webpage of Prabhat Ranjan, undergraduate student at IIT Bombay"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "portrait1.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "prabhat27"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "iitb.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
